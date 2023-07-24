@@ -6,7 +6,7 @@
 近期繁忙，无暇顾此，故开源之。凡力及者，精之益之。
 
 ### 介绍
-一个玩具，使用Objective-C实现类似SwiftUI的界面开发框架。
+一个玩具，使用Objective-C实现类似SwiftUI的界面开发框架。（这个框架只是一个玩具，性能自然不及SwiftUI，不建议在实际生产环境中使用）
 
 ### 使用说明
 语法和命名基本遵循SwiftUI，可以完全使用框架的接口创建简单应用。
@@ -114,5 +114,6 @@ OCHostingController(view, ^(UIViewController *vc) {
 ```
 ![演示2](2.gif)
 
-### 说明
-这个框架只是一个玩具，性能自然不及SwiftUI，不建议在实际生产环境中使用。
+
+### 源码
+https://gitee.com/ObjectiveUI/ObjectiveUI
